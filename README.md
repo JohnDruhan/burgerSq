@@ -14,5 +14,6 @@ Burger name will appear on left column:
 
 Type your name in "name" box and hit "devour-it" and burgur will appear in right column:
 <img width="451" alt="Screen Shot 2019-04-04 at 4 41 22 PM" src="https://user-images.githubusercontent.com/42286091/55588365-93534a00-56fb-11e9-8b49-7976fa3f2357.png">
+<img width="913" alt="Screen Shot 2019-04-04 at 4 41 52 PM" src="https://user-images.githubusercontent.com/42286091/55588473-d9a8a900-56fb-11e9-836d-b51a1d4314f0.png">
 
 
